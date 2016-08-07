@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pic Scramble</string>
+    <string name="err_no_network">No network connectivity</string>
+    <string name="label_loading">Loading ...</string>
+    <string name="label_start">Start</string>
+    <string name="label_reset">Reset</string>
+    <string name="label_start_game">Go!</string>
+    <string name="label_game_finish">Congratulations! You Won the Game ...</string>
+</resources>
